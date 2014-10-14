@@ -1,6 +1,6 @@
 # Miniscans
 
-TODO: Write a gem description
+Some small security scanners
 
 ## Installation
 

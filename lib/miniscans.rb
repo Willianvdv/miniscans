@@ -1,5 +1,6 @@
-require "miniscans/version"
+require 'miniscans/version'
+require 'miniscans/scanners/scanner'
+require 'miniscans/scanners/port_scanner'
 
 module Miniscans
-  # Your code goes here...
 end
